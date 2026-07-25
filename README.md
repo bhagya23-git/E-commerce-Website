@@ -1,5 +1,5 @@
 # E-commerce-Website
-An e-commerce website is an online platform that lets people buy and sell products or services over the internet
+A responsive front-end E-commerce website built using HTML, CSS, and JavaScript featuring product listings, shopping cart, promotional banners, blog, and contact pages with a modern user interface.
 
 # Short Description
 
